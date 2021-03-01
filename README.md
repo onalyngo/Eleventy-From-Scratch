@@ -13,7 +13,7 @@ A starter repository for building a static website with [Eleventy static site ge
 
 ### 1. Generate a new repository from this repository template
 
-Click the ["Use this template"](https://github.com/onalyngo/Content-Site-Platform/generate) button. Alternatively you can clone this repo yourself and push your copy to your favorite git repository.
+Click the ["Use this template"](https://github.com/onalyngo/Eleventy-From-Scratch/generate) button. Alternatively you can clone this repo yourself and push your copy to your favorite git repository.
 
 ### 2. Clone your new repository
 
